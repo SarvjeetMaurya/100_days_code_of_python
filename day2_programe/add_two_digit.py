@@ -1,0 +1,6 @@
+print("digit sum of the two digit number\n")
+number= input("Enter the 2 digit number here \n")
+first_digit= int(number[0])
+second_digit= int(number[1])
+addition = str(first_digit+second_digit)
+print("The sum of digit your number is "+addition)
