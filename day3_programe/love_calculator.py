@@ -1,0 +1,1 @@
+print("Welcome to love calculator...")
